@@ -43,7 +43,7 @@ section {
 
 .gallery-images img {
     max-width: fit-content;
-    height: fit-content;
+    height: 100%;
     border: 1px solid #ccc;
 }
 
