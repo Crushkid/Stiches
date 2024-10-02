@@ -42,14 +42,14 @@ section {
 }
 
 .gallery-images img {
-    max-width: fit-content;
-    height: 100%;
-    border: 1px solid #ccc;
+    max-width: 70px;
+    height: fit-content;
+    border: 5px solid #080808;
 }
 
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #333;
+    background: #758cf1;
     color: #fff;
 }
